@@ -1,2 +1,3 @@
 # hello-world
-This is a suppository. No, it's a repository. Sorry about that.
+It's just a repository. Sorry about that.
+I should not have used a gross joke. I will think of a better one.
